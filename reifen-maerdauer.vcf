@@ -1,8 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 FN:Reifen Maerdauer
 ORG:Reifen Maerdauer
-TEL;TYPE=work,voice;VALUE=tel:+491718186641
-EMAIL:reifen-maerdauer@gmx.de
-ADR;TYPE=work:;;Gewerbering 4;Hollenbach-Motzenhofen;Bayern;86568;Deutschland
+TEL;TYPE=WORK,VOICE:+491718186641
+EMAIL;TYPE=WORK:reifen-maerdauer@gmx.de
+ADR;TYPE=WORK:;;Gewerbering 4;Hollenbach-Motzenhofen;Bayern;86568;Deutschland
 END:VCARD
